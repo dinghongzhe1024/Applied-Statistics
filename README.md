@@ -1,0 +1,2 @@
+# applied-statistics
+python homework
